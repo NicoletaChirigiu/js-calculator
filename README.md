@@ -2,6 +2,8 @@
 
    This is an educational project where I learned the basics of JavaScript. 
  It is an unconventional calculator because you start calculating from 0, any value newly inserted will have as reference the previous result of the equations.
+ 
+ https://nicoletachirigiu.github.io/js-calculator/ -> test it :) !
 
 Calculator preview 
  
